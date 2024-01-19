@@ -1,3 +1,10 @@
+Step 1: Create one t2.micro ec2 Instace
+
+Step 2:Install Jenkins
+
+
+
+
 # node-todo-cicd
 
 Run these commands:
